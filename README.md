@@ -15,4 +15,3 @@ Estimating the distance to each detected traffic light from the camera picturing
 ### Phase IV: Software integration
 Integrating all previous parts into a functional and intuitive SW product.
 # Mobileye_project
-# Mobileye_project
